@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  certificates:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-05-28T16:29:56.4257705+10:00"
+    description: A Helm chart for deploying/creating mass certificates
+    digest: eb74139f2d4e84dea92db11c3f1efdf8909d70c06c50f0d0c8492d74ba5d38ec
+    name: certificates
+    type: application
+    urls:
+    - https://mkerai.github.io/helm/certificates-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-28T16:29:56.4211387+10:00"
